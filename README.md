@@ -4,13 +4,15 @@ Udacity Bikeshare Python project
 
 In this project, I used Python to explore data related to the Bikeshare systems of three major cities — Chicago, New York City, and Washington, DC. I wrote code to import the data and compute descriptive statistics.
 
-Data Files used
+Data Files used:
 
 new_york_city.csv
 
 chicago.csv
 
 washington.csv
+
+Resources:
 
 https://github.com/bchao1/bullet/blob/master/README.md
 
