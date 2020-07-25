@@ -27,7 +27,7 @@ def get_filters():
             bullet_color=colors.bright(colors.foreground["cyan"]),
             word_color=colors.bright(colors.foreground["red"]),
             word_on_switch=colors.bright(colors.foreground["blue"]),
-            background_color=colors.background["black"],
+            background_color=colors.background["gray"],
             background_on_switch=colors.background["black"],
             pad_right = 5
         )
@@ -44,7 +44,7 @@ def get_filters():
             bullet_color=colors.bright(colors.foreground["cyan"]),
             word_color=colors.bright(colors.foreground["red"]),
             word_on_switch=colors.bright(colors.foreground["blue"]),
-            background_color=colors.background["black"],
+            background_color=colors.background["gray"],
             background_on_switch=colors.background["black"],
             pad_right = 5
         )
@@ -61,7 +61,7 @@ def get_filters():
             bullet_color=colors.bright(colors.foreground["cyan"]),
             word_color=colors.bright(colors.foreground["red"]),
             word_on_switch=colors.bright(colors.foreground["blue"]),
-            background_color=colors.background["black"],
+            background_color=colors.background["gray"],
             background_on_switch=colors.background["black"],
             pad_right = 5
         )
